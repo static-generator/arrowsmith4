@@ -1,10 +1,6 @@
 # Arrowsmith4
 CN 4
 ---
-Toilet
+My favorite game:
 
-![Toilet](https://upload.wikimedia.org/wikipedia/commons/5/55/Toilet-llqq-001.jpg)
----
-Let me cook!
-
-![LET ME COOK](https://t4.ftcdn.net/jpg/01/02/28/13/360_F_102281342_eqYCR8usrZTxhbHusXAlQ3n5iUiM4bMZ.jpg)
+![WAR THUNDER](https://static.warthunder.com/upload/image/0_Wallpaper_Renders/2560x1440_wt_10_years_logo_e7ab71375223efbaa789c95078de5024.jpg)
