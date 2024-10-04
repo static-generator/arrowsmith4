@@ -9,6 +9,10 @@ My favorite game!!!!!
 
 # **My Favorite Vehicles in War Thunder** #
 ---
+
+## **NUMBER 1. USA TECH TREE🗣🦅🦅🦅🦅** ##
+
+---
 1. M18 GMC
 
 ![M18 GMC](https://wiki.warthunder.com/images/e/e3/ArtImage_M18_GMC.jpg)
@@ -34,7 +38,9 @@ My favorite game!!!!!
 
 -The one in the picture is a M4A3E2 (76) W , Or called the "Jumbo". Its a Heavy tank made by the USA during WW2
 
--Its morea armored than the regular shermans and can withstand hits from enemy tanks back at the time
+-Its more armored than the regular shermans and can withstand hits from enemy tanks back at the time
+
+-Its turret mantlet is so armored, it can tank shots from a Tiger
 
 ---
 
@@ -106,3 +112,20 @@ My favorite game!!!!!
 
 8. M46 Patton
 
+![M46](https://github.com/user-attachments/assets/07f4258f-5356-4301-8717-ad82c0f30c28)
+
+-The M46 Patton is an upgraded M26 Pershing, with new design, better engine and even more powerful gun
+
+-The M46 was introduced during the end of WW2
+
+-The M46 is later used in the korean war, where it served great purpose
+
+---
+
+9. M60/M60A1(AOS)
+
+![M60A1-AOS](https://github.com/user-attachments/assets/c5995355-6140-4fa2-aca5-6519483cb237)
+
+-The M60 or M60A1 (AOS) is a meduim tank made by the Americans during the cold war
+
+-
